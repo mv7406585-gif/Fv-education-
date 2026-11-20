@@ -1,0 +1,12 @@
+FV EDUCATION Android project (source code)
+
+Yeh APK file nahi, Android Studio project source hai. Is environment mein Android SDK/Gradle build tools available nahi hain, isliye compiled APK banana mumkin nahi hua.
+
+APK banane ke liye:
+1. Computer par Android Studio install karein.
+2. Is project folder ko Android Studio mein Open karein.
+3. Gradle sync complete hone dein.
+4. Build > Build Bundle(s) / APK(s) > Build APK(s) chunein.
+5. APK app/build/outputs/apk/debug/app-debug.apk mein milega.
+
+App ka naam FV EDUCATION hai aur supplied logo assets mein included hai.
